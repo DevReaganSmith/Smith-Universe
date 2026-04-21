@@ -1,0 +1,6 @@
+{
+  "name": "Reagan Smith - Personal Universe",
+  "description": "A premium, animated personal portfolio and social hub for Reagan Smith, featuring AI integration, music zone, image editor, and community hangout.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
